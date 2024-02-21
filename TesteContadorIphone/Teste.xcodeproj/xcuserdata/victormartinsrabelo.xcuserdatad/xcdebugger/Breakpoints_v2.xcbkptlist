@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C65ED0F-3618-45D0-A300-107A90C1D077"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C88D5BA8-D649-45AD-BC35-2896C2EF8D85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Teste/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "startDeviceMotionUpdates()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C88D5BA8-D649-45AD-BC35-2896C2EF8D85 - f2836ee9a1e1236e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMDeviceMotion&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Teste.ContentView.startDeviceMotionUpdates() -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/Teste/Teste/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1720">
+               </Location>
+               <Location
+                  uuid = "C88D5BA8-D649-45AD-BC35-2896C2EF8D85 - f2836ee9a1e1236e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMDeviceMotion&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Teste.ContentView.startDeviceMotionUpdates() -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/Teste/Teste/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "3204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E20DE710-21A4-41B7-B1F9-FFAEA7D75523"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Teste/DisplacementCalculator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "setupMotionManager()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E20DE710-21A4-41B7-B1F9-FFAEA7D75523 - d808982d7090db1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMAccelerometerData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Teste.DisplacementCalculator.setupMotionManager() -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/Teste/Teste/DisplacementCalculator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "E20DE710-21A4-41B7-B1F9-FFAEA7D75523 - d808982d7090db1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMAccelerometerData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Teste.DisplacementCalculator.setupMotionManager() -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/Teste/Teste/DisplacementCalculator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "E20DE710-21A4-41B7-B1F9-FFAEA7D75523 - e5d2b1e53224e45f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMAccelerometerData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Teste.DisplacementCalculator.setupMotionManager() -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/DisplacementCalculator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62CAEB73-5644-4137-9DB0-0FEE4AE208DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Teste/DisplacementCalculator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "calculateDisplacement(acceleration:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "62CAEB73-5644-4137-9DB0-0FEE4AE208DA - 1100038b2e076c73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Teste.DisplacementCalculator.calculateDisplacement(acceleration: __C.CMAcceleration) -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/Teste/Teste/DisplacementCalculator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "62CAEB73-5644-4137-9DB0-0FEE4AE208DA - 1100038b2e076c73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Teste.DisplacementCalculator.calculateDisplacement(acceleration: __C.CMAcceleration) -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/Teste/Teste/DisplacementCalculator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "62CAEB73-5644-4137-9DB0-0FEE4AE208DA - 2cda2a436cb35712"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Teste.DisplacementCalculator.calculateDisplacement(acceleration: __C.CMAcceleration) -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/DisplacementCalculator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5453B3A-9E21-4431-8607-60B9DA24E862"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Teste/AICountingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "activityPrediction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5453B3A-9E21-4431-8607-60B9DA24E862 - 9bc5c26c0c73d031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Teste.Artigo.activityPrediction() -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/AICountingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "E5453B3A-9E21-4431-8607-60B9DA24E862 - 9bc5c26c0c73d031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Teste.Artigo.activityPrediction() -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/AICountingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "1796">
+               </Location>
+               <Location
+                  uuid = "E5453B3A-9E21-4431-8607-60B9DA24E862 - 44e97b2d5c30e97f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Teste.Artigo.activityPrediction() -&gt; Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/AICountingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "E5453B3A-9E21-4431-8607-60B9DA24E862 - 44e97b2d5c30e97f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Teste.Artigo.activityPrediction() -&gt; Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/AICountingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37BF7218-78B7-4A98-B52C-0BB3DB877A9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Teste/ProceduralV2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "startMotionUpdates()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37BF7218-78B7-4A98-B52C-0BB3DB877A9E - c976ad526d83cbb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMDeviceMotion&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Teste.ProceduralV2.startMotionUpdates() -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/ProceduralV2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+               <Location
+                  uuid = "37BF7218-78B7-4A98-B52C-0BB3DB877A9E - c976ad526d83cb92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMDeviceMotion&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Teste.ProceduralV2.startMotionUpdates() -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/ProceduralV2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "239"
+                  endingLineNumber = "239"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+               <Location
+                  uuid = "37BF7218-78B7-4A98-B52C-0BB3DB877A9E - c976ad526d83cb92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMDeviceMotion&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Teste.ProceduralV2.startMotionUpdates() -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/ProceduralV2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "239"
+                  endingLineNumber = "239"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+               <Location
+                  uuid = "37BF7218-78B7-4A98-B52C-0BB3DB877A9E - c976ad526d83cbb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMDeviceMotion&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Teste.ProceduralV2.startMotionUpdates() -&gt; ()"
+                  moduleName = "Teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/victormartinsrabelo/Desktop/TesteContadorIphone/Teste/ProceduralV2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAB265CF-750E-451E-AD9B-322A31A452B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Teste/ProceduralV2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "238"
+            endingLineNumber = "238"
+            landmarkName = "startMotionUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E30B2140-1964-4998-83C8-DD89EB53632C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Teste/ProceduralV2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "startMotionUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
